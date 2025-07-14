@@ -59,7 +59,7 @@ Clone this repository into your home directory and then move it to your .config 
 
 Bash
 
-git clone https://github.com/YOUR_USERNAME/Thinkpad_base_xfce4.git # Replace YOUR_USERNAME
+git clone https://github.com/gowthamreddysomala/Thinkpad_base_xfce4.git 
 mv Thinkpad_base_xfce4 ~/.config/
 3. Driver Management
 It is crucial to use libinput for modern trackpad management and remove any conflicting synaptics drivers.
